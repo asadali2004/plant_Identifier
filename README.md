@@ -115,9 +115,9 @@ Saved plants are shown in the "My Garden" page, with:
 ## 📸 Screenshots
 
 You can add screenshots here showing:
-- Upload page
-- Result page
-- My Plants page
+![Screenshot 2025-04-25 112257](https://github.com/user-attachments/assets/0b9d89a1-b369-48f2-9503-ca191939f91d)
+![Screenshot 2025-04-25 112441](https://github.com/user-attachments/assets/dac0d9a3-abea-43bf-839b-363e908e9588)
+![Screenshot 2025-04-25 112452](https://github.com/user-attachments/assets/625d7acd-565b-4b03-a31a-bc94d90021ab)
 
 ---
 
